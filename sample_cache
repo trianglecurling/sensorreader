@@ -1,0 +1,156 @@
+ccollections
+deque
+p0
+((lp1
+S"insert:{table:'temps', values:{source:'NORTH',value:85.6,unit:'F',date:'2018-08-26 12:22:47'}};;"
+p2
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.6,unit:'%',date:'2018-08-26 12:22:47'}};;"
+p3
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.6,unit:'F',date:'2018-08-26 12:22:57'}};;"
+p4
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:22:57'}};;"
+p5
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.6,unit:'F',date:'2018-08-26 12:23:07'}};;"
+p6
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:23:07'}};;"
+p7
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:24:06'}};;"
+p8
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:24:06'}};;"
+p9
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:24:16'}};;"
+p10
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:24:16'}};;"
+p11
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:24:26'}};;"
+p12
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:24:26'}};;"
+p13
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:24:36'}};;"
+p14
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:24:36'}};;"
+p15
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:24:46'}};;"
+p16
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:24:46'}};;"
+p17
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:24:56'}};;"
+p18
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:24:56'}};;"
+p19
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:25:06'}};;"
+p20
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:25:06'}};;"
+p21
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:25:16'}};;"
+p22
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:25:16'}};;"
+p23
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:25:26'}};;"
+p24
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.5,unit:'%',date:'2018-08-26 12:25:26'}};;"
+p25
+aS"insert:{table:'temps', values:{source:'NORTH',value:85.8,unit:'F',date:'2018-08-26 12:25:36'}};;"
+p26
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.6,unit:'%',date:'2018-08-26 12:25:36'}};;"
+p27
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:38:18'}};;"
+p28
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:38:18'}};;"
+p29
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.2,unit:'F',date:'2018-08-26 12:38:28'}};;"
+p30
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:38:28'}};;"
+p31
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:38:38'}};;"
+p32
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:38:38'}};;"
+p33
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:38:48'}};;"
+p34
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:38:48'}};;"
+p35
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:38:58'}};;"
+p36
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:38:58'}};;"
+p37
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:39:08'}};;"
+p38
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:39:08'}};;"
+p39
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:39:18'}};;"
+p40
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:39:18'}};;"
+p41
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:39:28'}};;"
+p42
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:39:28'}};;"
+p43
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:39:38'}};;"
+p44
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.6,unit:'%',date:'2018-08-26 12:39:38'}};;"
+p45
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:39:48'}};;"
+p46
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:39:48'}};;"
+p47
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:39:58'}};;"
+p48
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:39:58'}};;"
+p49
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:40:08'}};;"
+p50
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:40:08'}};;"
+p51
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:40:18'}};;"
+p52
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:40:18'}};;"
+p53
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:40:28'}};;"
+p54
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:40:28'}};;"
+p55
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:40:38'}};;"
+p56
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.5,unit:'%',date:'2018-08-26 12:40:38'}};;"
+p57
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.4,unit:'F',date:'2018-08-26 12:40:48'}};;"
+p58
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:40:48'}};;"
+p59
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:40:58'}};;"
+p60
+aS"insert:{table:'humidities', values:{source:'NORTH',value:54.7,unit:'%',date:'2018-08-26 12:40:58'}};;"
+p61
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:41:08'}};;"
+p62
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.8,unit:'%',date:'2018-08-26 12:41:08'}};;"
+p63
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:41:18'}};;"
+p64
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:41:18'}};;"
+p65
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:41:28'}};;"
+p66
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.6,unit:'%',date:'2018-08-26 12:41:28'}};;"
+p67
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:41:38'}};;"
+p68
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.6,unit:'%',date:'2018-08-26 12:41:38'}};;"
+p69
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:41:48'}};;"
+p70
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:41:48'}};;"
+p71
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:41:58'}};;"
+p72
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.7,unit:'%',date:'2018-08-26 12:41:58'}};;"
+p73
+aS"insert:{table:'temps', values:{source:'NORTH',value:86.5,unit:'F',date:'2018-08-26 12:42:08'}};;"
+p74
+aS"insert:{table:'humidities', values:{source:'NORTH',value:55.6,unit:'%',date:'2018-08-26 12:42:08'}};;"
+p75
+aI10080
+tp76
+Rp77
+.
